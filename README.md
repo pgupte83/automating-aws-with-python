@@ -1,2 +1,3 @@
 # automating-aws-with-python
-Repository for Automating AWS with Python
+Repository for Testing Automating AWS with Python
+#Enf of automation logic
